@@ -7,7 +7,7 @@ Files and information regarding LDO's Milo CNC kit.
 
 # Spindle safety info
 
-Important safety for spindle wiring in the Grounding / shielding section https://wiki.printnc.info/en/electronics/vfd/config
+Important safety for spindle wiring in the Grounding / shielding section at https://wiki.printnc.info/en/electronics/vfd/config
 
 # Pi setup
 
