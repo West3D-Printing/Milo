@@ -5,7 +5,7 @@ Files and information regarding LDO's Milo CNC kit.
 - Millennium Machines' Milo documentation can be found at https://millenniummachines.github.io/docs/
 - LDO's supplemental documentation can be found at https://docs.ldomotors.com/en/milo/milov15
 
-# Spindle info
+# Spindle safety info
 
 Important safety for spindle wiring https://wiki.printnc.info/en/electronics/vfd/config
 
