@@ -11,4 +11,4 @@ Important safety for spindle wiring in the Grounding / shielding section at http
 
 # Pi setup
 
-- Instructions for setting up a system-wide onscreen keyboard on Bookwork based systems can be found at https://forums.raspberrypi.com/viewtopic.php?t=358147
+- Instructions for setting up a system-wide onscreen keyboard on Bookworm based systems can be found at https://forums.raspberrypi.com/viewtopic.php?t=358147
